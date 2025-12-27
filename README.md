@@ -1,1 +1,3 @@
 Any standard optimization algorithms go in Standard Algorithms. Any algorithms I've made up go in Custom Algorithms. Objective Functions is where I put any simple objectives which do not require their own project folder. Short Projects is for more complex problems that require their own notebook or which I wanted to highlight. Analysis Tools is where any statistics tools which don't do optimization directly go.
+
+The cPlusPlus folder is for C++ implementations of any algorithm: this is desirable from a run-time perspective.
